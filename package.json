@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/stephbouasy/nodejs/issues"
   },
-  "homepage": "https://github.com/stephbouasy/nodejs#readme"
+  "homepage": "https://github.com/stephbouasy/nodejs#readme",
+  "dependencies": {
+    "init": "^0.1.2"
+  }
 }
