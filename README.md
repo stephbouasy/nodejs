@@ -11,8 +11,12 @@ In future developments I want to include the command "do-what-it-says" command. 
 
 The following is a video displaying how this works:
 
+https://www.youtube.com/watch?v=E1tqO39nH8o
+
 
 Link to a deployed version of the app:
+
+https://github.com/stephbouasy/nodejs
 
 
 The technologies used in the app:

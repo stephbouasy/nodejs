@@ -744,3 +744,61 @@ Language: English, Spanish
 Plot: The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts.
 Actors: Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses
 ---------------------
+Concert Info
+0
+Name of the Venue: Gypsy Sally's
+Venue Location: Washington
+Date of the Event: undefined
+-----------------
+Concert Info
+1
+Name of the Venue: Sugar Loaf Performing Arts Center
+Venue Location: Chester
+Date of the Event: undefined
+-----------------
+Concert Info
+2
+Name of the Venue: House of Blues Houston
+Venue Location: Houston
+Date of the Event: undefined
+-----------------
+Concert Info
+3
+Name of the Venue: The Plowright Theatre
+Venue Location: Scunthorpe
+Date of the Event: undefined
+-----------------
+Concert Info
+4
+Name of the Venue: Higher Ground
+Venue Location: South Burlington
+Date of the Event: undefined
+-----------------
+Concert Info
+5
+Name of the Venue: The Sinclair
+Venue Location: Cambridge
+Date of the Event: undefined
+-----------------
+Concert Info
+6
+Name of the Venue: UKK - Stora salen
+Venue Location: Uppsala
+Date of the Event: undefined
+-----------------
+Concert Info
+7
+Name of the Venue: El Rey Theatre
+Venue Location: Los Angeles
+Date of the Event: undefined
+-----------------
+Movie
+Title: Selena
+Release Year: 1997
+IMDB Rating: 6.7
+Rotten Tomatoes Rating: undefined
+Country of Production: USA
+Language: English, Spanish
+Plot: The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts.
+Actors: Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses
+---------------------
